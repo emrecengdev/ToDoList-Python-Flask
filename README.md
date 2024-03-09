@@ -4,6 +4,10 @@
 
 This project is a Flask-based ToDo application designed to help users manage their tasks efficiently. It features a user-friendly interface for adding, deleting, and updating tasks. The application can be used as a web service or run locally for personal task management.
 
+## Demonstration Video
+
+
+
 ## Installation
 
 ### Prerequisites
@@ -48,8 +52,4 @@ Please ensure to update tests as appropriate.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-
-Feel free to save this draft to a `README.md` file and upload it to your GitHub repository. Make sure to customize it further to accurately reflect your project's specifics, especially in sections like the introduction and usage instructions.
+Distributed under the MIT License. 
