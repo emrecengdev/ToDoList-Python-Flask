@@ -4,6 +4,8 @@
 
 This project is a Flask-based ToDo application designed to help users manage their tasks efficiently. It features a user-friendly interface for adding, deleting, and updating tasks. The application can be used as a web service or run locally for personal task management.
 
+![flasktodo-sc](https://github.com/emrecengdev/ToDoList-Python-Flask/assets/76089961/7bdac53e-01f2-4e34-902e-6b7837c13c54)
+
 ## Demonstration Video
 
 https://github.com/emrecengdev/ToDoList-Python-Flask/assets/76089961/a73fa4a7-32f3-4050-93eb-51e2e44f4fc2
