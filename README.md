@@ -1,40 +1,55 @@
-# [flaskToDo✅](https://dogukanurker.com/flasktodo)
+# Flask ToDo Application
 
-Simple todo app built with Flask.
-<br/>
-[Contact](mailto:dogukanurker@icloud.com)<br/>
-[Dogukan Urker](https://dogukanurker.com)
-### [Demo Video 📺](https://youtu.be/GmPeXhBiihI)
-|              Desktop               |              Mobile               |
-| :--------------------------------: | :-------------------------------: |
-| ![appDesktop](/images/desktop.png) | ![appMobile](/images/mobile.jpeg) |
+## Introduction
 
-## Requirements 📦
+This project is a Flask-based ToDo application designed to help users manage their tasks efficiently. It features a user-friendly interface for adding, deleting, and updating tasks. The application can be used as a web service or run locally for personal task management.
 
-- Flask
-- Flaskwebgui <sub><sup>(if you run desktop.py)</sup></sub>
+## Installation
 
-## Installation ⬇️
+### Prerequisites
 
-download source code from Github 💾
-`git clone https://github.com/DogukanUrker/flaskToDo.git`
+- Python 3.6+
+- pip
 
-go to directory 📁
-`cd flaskToDo`
+### Steps
 
-install requirements.txt 🔽
-`pip install -r requirements.txt`
+1. Clone this repository or download the ZIP file and extract it.
+2. Navigate to the project directory.
 
-it's ready to run 🎉
-`python app.py`
-or
-`python desktop.py`
-for run flaskToDo as a desktop app 💯
+    ```sh
+    cd ToDoList-Python-Flask
+    ```
 
-### Contributors 💕
+3. Install the required Python packages.
 
-<a href="https://github.com/dogukanurker"><img src="https://avatars.githubusercontent.com/u/62756402" title="ngryman" width="80" height="80"></a>
+    ```sh
+    pip3 install -r requirements.txt
+    ```
 
-### Support 💰
+## Usage
 
-<a href="https://dogukanurker.com/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+To run the Flask application:
+
+```sh
+python3 app.py
+```
+
+For the desktop application:
+
+```sh
+python3 desktop.py
+```
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+Please ensure to update tests as appropriate.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+---
+
+Feel free to save this draft to a `README.md` file and upload it to your GitHub repository. Make sure to customize it further to accurately reflect your project's specifics, especially in sections like the introduction and usage instructions.
